@@ -52,3 +52,7 @@ This project helped me practice:
 - Updating a graphical interface from a worker thread
 - File input
 - Organizing a C# desktop application
+
+## Screenshot
+
+![Maze Pathfinding Visualizer](screenshots/maze-demo.png)
